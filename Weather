@@ -1,0 +1,14 @@
+<html> <head>
+<style type="text/css">
+body
+{ background-color: black; }
+</style>
+</head>
+<body>
+<fieldset><center>
+<h1>Weather app</h1>
+</center>
+</fieldset>
+<fieldset>
+<input type=text name=city></input>
+<input type=button value=get_weather></input>
