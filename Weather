@@ -12,3 +12,6 @@ body
 <fieldset>
 <input type=text name=city></input>
 <input type=button value=get_weather></input>
+</fieldset>
+</body>
+</html>
